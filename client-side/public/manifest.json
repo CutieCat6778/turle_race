@@ -1,0 +1,8 @@
+{
+    "short_name": "Turle Race",
+    "name": "Web realtime game Turle Race",
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+}
