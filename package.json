@@ -1,0 +1,36 @@
+{
+  "name": "turle_race",
+  "version": "0.0.1",
+  "description": "A Online game that allows users to bet from the turle races",
+  "main": "server.js",
+  "scripts": {
+    "test": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CutieCat6778/turle_race.git"
+  },
+  "keywords": [
+    "bet",
+    "game",
+    "race",
+    "turle"
+  ],
+  "author": "Cat_#9289",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/CutieCat6778/turle_race/issues"
+  },
+  "homepage": "https://github.com/CutieCat6778/turle_race#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^8.2.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "meaningful-string": "^1.3.1",
+    "mongoose": "^5.12.5",
+    "path": "^0.12.7",
+    "socket.io": "^4.0.1"
+  }
+}
